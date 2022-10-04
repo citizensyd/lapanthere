@@ -722,6 +722,18 @@ h3 {
     color: #333333 !important;
 }
 
+.citation{
+    font-style: italic;
+    font-size: 21px;
+    color: #575757;
+    letter-spacing: -1px;
+    line-height: 25px;
+}
+.auteur{
+    font-size: 20px;
+    letter-spacing: -1px;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
