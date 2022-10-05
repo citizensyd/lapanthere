@@ -282,6 +282,17 @@ a:hover {
     padding-left: 0;
 }
 
+#bloc-0{
+    position: fixed;
+    top: 0;
+    z-index: 10;
+
+}
+
+main{
+    margin-top: 93px;
+}
+
 #bloc-1-hero h1 {
     font-size: 32px;
 }
