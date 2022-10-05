@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+sitemap: https://lapanthere.pages.dev/sitemap.xml
