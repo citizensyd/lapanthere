@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^citizensyd.github.io/lapanthere/ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.citizensyd.github.io/lapanthere/ [NC]
+RewriteRule ^(.*)$ https://citizensyd.github.io/lapanthere/$1 [L,R=301,NC]
