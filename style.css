@@ -27,6 +27,11 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.marker {
+    position: absolute;
+    top: -60px;
+  }
+
 .bloc {
     width: 100%;
     clear: both;
